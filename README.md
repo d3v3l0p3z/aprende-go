@@ -1,6 +1,6 @@
 # Aprende Go en castellano 🇪🇸
 
-![GitHub License](https://img.shields.io/github/license/javierlopezdeancos/aprende-go)
+![GitHub License](https://img.shields.io/github/license/d3v3l0p3z/aprende-go)
 
 ![mascota de golang estudiando](./images/pet.jpeg)
 
@@ -56,7 +56,6 @@ Aprende Go en castellano con ejemplos tutoriales y ejercicios.
     - [Estado inicial](./conditionals/conditionals.md#131-estado-inicial)
     - Ternary condition
   - [Condicional switch](./conditionals/conditionals.md#14-condicional-switch)
-    - The syntax of the switch statement
     - [Default case](./conditionals/conditionals.md#141-default-case)
     - [Múltiples valores en el case](./conditionals/conditionals.md#142-multiples-valores-en-el-case)
     - [Inicial statement](./conditionals/conditionals.md#143-inicial-statement)
